@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=amemolee)](https://github.com/ryo-ma/github-profile-trophy) Hi there.
+
 <!--
 **amemolee/amemolee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
